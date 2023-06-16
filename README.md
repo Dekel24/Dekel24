@@ -1,17 +1,14 @@
 # Hi there! 👋
 I'm Dekel :rocket:, a passionate programmer with expertise in Python, C#, MySQL, and JavaScript. Welcome to my GitHub profile!
-</br>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-</br>
 ## Programming Skills
 
 - Python
 - C#
 - MySQL
 - JavaScript
-</br>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" title="Git" **alt="Git" width="40" height="40"/>
@@ -21,7 +18,6 @@ I'm Dekel :rocket:, a passionate programmer with expertise in Python, C#, MySQL,
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-</br>
 ---
 
 ### :fire: My Stats :
